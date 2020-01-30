@@ -1,0 +1,3 @@
+Assets/Assets/Sprites/Tiles/Palettes/AnimatedTiles.prefab
+Assets/Assets/Sprites/Tiles/Palettes/Environment.prefab
+Assets/Dummy_Sprites_Course_3/Sprites/Palettes/Vegetation/Vegetation.prefab
